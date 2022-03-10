@@ -1,0 +1,3 @@
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p1\publish\StoreModels.dll
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p1\publish\StoreModels.deps.json
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p1\publish\StoreModels.pdb

@@ -1,0 +1,15 @@
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p1\StoreDL\bin\Release\net6.0\StoreDL.deps.json
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p1\StoreDL\bin\Release\net6.0\StoreDL.dll
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p1\StoreDL\bin\Release\net6.0\ref\StoreDL.dll
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p1\StoreDL\bin\Release\net6.0\StoreDL.pdb
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p1\StoreDL\bin\Release\net6.0\StoreModels.dll
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p1\StoreDL\bin\Release\net6.0\StoreModels.pdb
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p1\StoreDL\obj\Release\net6.0\StoreDL.csproj.AssemblyReference.cache
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p1\StoreDL\obj\Release\net6.0\StoreDL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p1\StoreDL\obj\Release\net6.0\StoreDL.AssemblyInfoInputs.cache
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p1\StoreDL\obj\Release\net6.0\StoreDL.AssemblyInfo.cs
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p1\StoreDL\obj\Release\net6.0\StoreDL.csproj.CoreCompileInputs.cache
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p1\StoreDL\obj\Release\net6.0\StoreDL.csproj.CopyComplete
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p1\StoreDL\obj\Release\net6.0\StoreDL.dll
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p1\StoreDL\obj\Release\net6.0\ref\StoreDL.dll
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p1\StoreDL\obj\Release\net6.0\StoreDL.pdb

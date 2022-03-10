@@ -1,0 +1,72 @@
+C:\Users\lorna\Documents\GitHub\Store-App-Template\StoreModels\bin\Debug\net6.0\StoreModels.deps.json
+C:\Users\lorna\Documents\GitHub\Store-App-Template\StoreModels\bin\Debug\net6.0\StoreModels.dll
+C:\Users\lorna\Documents\GitHub\Store-App-Template\StoreModels\bin\Debug\net6.0\ref\StoreModels.dll
+C:\Users\lorna\Documents\GitHub\Store-App-Template\StoreModels\bin\Debug\net6.0\StoreModels.pdb
+C:\Users\lorna\Documents\GitHub\Store-App-Template\StoreModels\obj\Debug\net6.0\StoreModels.csproj.AssemblyReference.cache
+C:\Users\lorna\Documents\GitHub\Store-App-Template\StoreModels\obj\Debug\net6.0\StoreModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lorna\Documents\GitHub\Store-App-Template\StoreModels\obj\Debug\net6.0\StoreModels.AssemblyInfoInputs.cache
+C:\Users\lorna\Documents\GitHub\Store-App-Template\StoreModels\obj\Debug\net6.0\StoreModels.AssemblyInfo.cs
+C:\Users\lorna\Documents\GitHub\Store-App-Template\StoreModels\obj\Debug\net6.0\StoreModels.csproj.CoreCompileInputs.cache
+C:\Users\lorna\Documents\GitHub\Store-App-Template\StoreModels\obj\Debug\net6.0\StoreModels.dll
+C:\Users\lorna\Documents\GitHub\Store-App-Template\StoreModels\obj\Debug\net6.0\ref\StoreModels.dll
+C:\Users\lorna\Documents\GitHub\Store-App-Template\StoreModels\obj\Debug\net6.0\StoreModels.pdb
+C:\Users\lorna\Documents\GitHub\Lorna-UFO-store\Store-App-Template-UFO-Lorna\StoreModels\bin\Debug\net6.0\StoreModels.deps.json
+C:\Users\lorna\Documents\GitHub\Lorna-UFO-store\Store-App-Template-UFO-Lorna\StoreModels\bin\Debug\net6.0\StoreModels.dll
+C:\Users\lorna\Documents\GitHub\Lorna-UFO-store\Store-App-Template-UFO-Lorna\StoreModels\bin\Debug\net6.0\ref\StoreModels.dll
+C:\Users\lorna\Documents\GitHub\Lorna-UFO-store\Store-App-Template-UFO-Lorna\StoreModels\bin\Debug\net6.0\StoreModels.pdb
+C:\Users\lorna\Documents\GitHub\Lorna-UFO-store\Store-App-Template-UFO-Lorna\StoreModels\obj\Debug\net6.0\StoreModels.csproj.AssemblyReference.cache
+C:\Users\lorna\Documents\GitHub\Lorna-UFO-store\Store-App-Template-UFO-Lorna\StoreModels\obj\Debug\net6.0\StoreModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lorna\Documents\GitHub\Lorna-UFO-store\Store-App-Template-UFO-Lorna\StoreModels\obj\Debug\net6.0\StoreModels.AssemblyInfoInputs.cache
+C:\Users\lorna\Documents\GitHub\Lorna-UFO-store\Store-App-Template-UFO-Lorna\StoreModels\obj\Debug\net6.0\StoreModels.AssemblyInfo.cs
+C:\Users\lorna\Documents\GitHub\Lorna-UFO-store\Store-App-Template-UFO-Lorna\StoreModels\obj\Debug\net6.0\StoreModels.csproj.CoreCompileInputs.cache
+C:\Users\lorna\Documents\GitHub\Lorna-UFO-store\Store-App-Template-UFO-Lorna\StoreModels\obj\Debug\net6.0\StoreModels.dll
+C:\Users\lorna\Documents\GitHub\Lorna-UFO-store\Store-App-Template-UFO-Lorna\StoreModels\obj\Debug\net6.0\ref\StoreModels.dll
+C:\Users\lorna\Documents\GitHub\Lorna-UFO-store\Store-App-Template-UFO-Lorna\StoreModels\obj\Debug\net6.0\StoreModels.pdb
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p0\StoreModels\bin\Debug\net6.0\StoreModels.deps.json
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p0\StoreModels\bin\Debug\net6.0\StoreModels.dll
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p0\StoreModels\bin\Debug\net6.0\ref\StoreModels.dll
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p0\StoreModels\bin\Debug\net6.0\StoreModels.pdb
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p0\StoreModels\obj\Debug\net6.0\StoreModels.csproj.AssemblyReference.cache
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p0\StoreModels\obj\Debug\net6.0\StoreModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p0\StoreModels\obj\Debug\net6.0\StoreModels.AssemblyInfoInputs.cache
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p0\StoreModels\obj\Debug\net6.0\StoreModels.AssemblyInfo.cs
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p0\StoreModels\obj\Debug\net6.0\StoreModels.csproj.CoreCompileInputs.cache
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p0\StoreModels\obj\Debug\net6.0\StoreModels.dll
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p0\StoreModels\obj\Debug\net6.0\ref\StoreModels.dll
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p0\StoreModels\obj\Debug\net6.0\StoreModels.pdb
+C:\Users\lorna\Documents\GitHub\p1-p0 copy\StoreModels\bin\Debug\net6.0\StoreModels.deps.json
+C:\Users\lorna\Documents\GitHub\p1-p0 copy\StoreModels\bin\Debug\net6.0\StoreModels.dll
+C:\Users\lorna\Documents\GitHub\p1-p0 copy\StoreModels\bin\Debug\net6.0\ref\StoreModels.dll
+C:\Users\lorna\Documents\GitHub\p1-p0 copy\StoreModels\bin\Debug\net6.0\StoreModels.pdb
+C:\Users\lorna\Documents\GitHub\p1-p0 copy\StoreModels\obj\Debug\net6.0\StoreModels.csproj.AssemblyReference.cache
+C:\Users\lorna\Documents\GitHub\p1-p0 copy\StoreModels\obj\Debug\net6.0\StoreModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lorna\Documents\GitHub\p1-p0 copy\StoreModels\obj\Debug\net6.0\StoreModels.AssemblyInfoInputs.cache
+C:\Users\lorna\Documents\GitHub\p1-p0 copy\StoreModels\obj\Debug\net6.0\StoreModels.AssemblyInfo.cs
+C:\Users\lorna\Documents\GitHub\p1-p0 copy\StoreModels\obj\Debug\net6.0\StoreModels.csproj.CoreCompileInputs.cache
+C:\Users\lorna\Documents\GitHub\p1-p0 copy\StoreModels\obj\Debug\net6.0\StoreModels.dll
+C:\Users\lorna\Documents\GitHub\p1-p0 copy\StoreModels\obj\Debug\net6.0\ref\StoreModels.dll
+C:\Users\lorna\Documents\GitHub\p1-p0 copy\StoreModels\obj\Debug\net6.0\StoreModels.pdb
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p1-NO\StoreModels\bin\Debug\net6.0\StoreModels.deps.json
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p1-NO\StoreModels\bin\Debug\net6.0\StoreModels.dll
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p1-NO\StoreModels\bin\Debug\net6.0\ref\StoreModels.dll
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p1-NO\StoreModels\bin\Debug\net6.0\StoreModels.pdb
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p1-NO\StoreModels\obj\Debug\net6.0\StoreModels.csproj.AssemblyReference.cache
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p1-NO\StoreModels\obj\Debug\net6.0\StoreModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p1-NO\StoreModels\obj\Debug\net6.0\StoreModels.AssemblyInfoInputs.cache
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p1-NO\StoreModels\obj\Debug\net6.0\StoreModels.AssemblyInfo.cs
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p1-NO\StoreModels\obj\Debug\net6.0\StoreModels.csproj.CoreCompileInputs.cache
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p1-NO\StoreModels\obj\Debug\net6.0\StoreModels.dll
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p1-NO\StoreModels\obj\Debug\net6.0\ref\StoreModels.dll
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p1-NO\StoreModels\obj\Debug\net6.0\StoreModels.pdb
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p1\StoreModels\bin\Debug\net6.0\StoreModels.deps.json
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p1\StoreModels\bin\Debug\net6.0\StoreModels.dll
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p1\StoreModels\bin\Debug\net6.0\ref\StoreModels.dll
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p1\StoreModels\bin\Debug\net6.0\StoreModels.pdb
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p1\StoreModels\obj\Debug\net6.0\StoreModels.csproj.AssemblyReference.cache
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p1\StoreModels\obj\Debug\net6.0\StoreModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p1\StoreModels\obj\Debug\net6.0\StoreModels.AssemblyInfoInputs.cache
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p1\StoreModels\obj\Debug\net6.0\StoreModels.AssemblyInfo.cs
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p1\StoreModels\obj\Debug\net6.0\StoreModels.csproj.CoreCompileInputs.cache
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p1\StoreModels\obj\Debug\net6.0\StoreModels.dll
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p1\StoreModels\obj\Debug\net6.0\ref\StoreModels.dll
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p1\StoreModels\obj\Debug\net6.0\StoreModels.pdb

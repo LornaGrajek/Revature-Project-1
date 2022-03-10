@@ -1,0 +1,12 @@
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p1\StoreModels\bin\Release\net6.0\StoreModels.deps.json
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p1\StoreModels\bin\Release\net6.0\StoreModels.dll
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p1\StoreModels\bin\Release\net6.0\ref\StoreModels.dll
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p1\StoreModels\bin\Release\net6.0\StoreModels.pdb
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p1\StoreModels\obj\Release\net6.0\StoreModels.csproj.AssemblyReference.cache
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p1\StoreModels\obj\Release\net6.0\StoreModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p1\StoreModels\obj\Release\net6.0\StoreModels.AssemblyInfoInputs.cache
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p1\StoreModels\obj\Release\net6.0\StoreModels.AssemblyInfo.cs
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p1\StoreModels\obj\Release\net6.0\StoreModels.csproj.CoreCompileInputs.cache
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p1\StoreModels\obj\Release\net6.0\StoreModels.dll
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p1\StoreModels\obj\Release\net6.0\ref\StoreModels.dll
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p1\StoreModels\obj\Release\net6.0\StoreModels.pdb

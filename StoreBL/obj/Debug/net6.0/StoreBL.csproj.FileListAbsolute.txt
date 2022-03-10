@@ -1,0 +1,102 @@
+C:\Users\lorna\Documents\GitHub\Store-App-Template\StoreBL\bin\Debug\net6.0\StoreBL.deps.json
+C:\Users\lorna\Documents\GitHub\Store-App-Template\StoreBL\bin\Debug\net6.0\StoreBL.dll
+C:\Users\lorna\Documents\GitHub\Store-App-Template\StoreBL\bin\Debug\net6.0\ref\StoreBL.dll
+C:\Users\lorna\Documents\GitHub\Store-App-Template\StoreBL\bin\Debug\net6.0\StoreBL.pdb
+C:\Users\lorna\Documents\GitHub\Store-App-Template\StoreBL\bin\Debug\net6.0\StoreDL.dll
+C:\Users\lorna\Documents\GitHub\Store-App-Template\StoreBL\bin\Debug\net6.0\StoreModels.dll
+C:\Users\lorna\Documents\GitHub\Store-App-Template\StoreBL\bin\Debug\net6.0\StoreDL.pdb
+C:\Users\lorna\Documents\GitHub\Store-App-Template\StoreBL\bin\Debug\net6.0\StoreModels.pdb
+C:\Users\lorna\Documents\GitHub\Store-App-Template\StoreBL\obj\Debug\net6.0\StoreBL.csproj.AssemblyReference.cache
+C:\Users\lorna\Documents\GitHub\Store-App-Template\StoreBL\obj\Debug\net6.0\StoreBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lorna\Documents\GitHub\Store-App-Template\StoreBL\obj\Debug\net6.0\StoreBL.AssemblyInfoInputs.cache
+C:\Users\lorna\Documents\GitHub\Store-App-Template\StoreBL\obj\Debug\net6.0\StoreBL.AssemblyInfo.cs
+C:\Users\lorna\Documents\GitHub\Store-App-Template\StoreBL\obj\Debug\net6.0\StoreBL.csproj.CoreCompileInputs.cache
+C:\Users\lorna\Documents\GitHub\Store-App-Template\StoreBL\obj\Debug\net6.0\StoreBL.csproj.CopyComplete
+C:\Users\lorna\Documents\GitHub\Store-App-Template\StoreBL\obj\Debug\net6.0\StoreBL.dll
+C:\Users\lorna\Documents\GitHub\Store-App-Template\StoreBL\obj\Debug\net6.0\ref\StoreBL.dll
+C:\Users\lorna\Documents\GitHub\Store-App-Template\StoreBL\obj\Debug\net6.0\StoreBL.pdb
+C:\Users\lorna\Documents\GitHub\Lorna-UFO-store\Store-App-Template-UFO-Lorna\StoreBL\bin\Debug\net6.0\StoreBL.deps.json
+C:\Users\lorna\Documents\GitHub\Lorna-UFO-store\Store-App-Template-UFO-Lorna\StoreBL\bin\Debug\net6.0\StoreBL.dll
+C:\Users\lorna\Documents\GitHub\Lorna-UFO-store\Store-App-Template-UFO-Lorna\StoreBL\bin\Debug\net6.0\ref\StoreBL.dll
+C:\Users\lorna\Documents\GitHub\Lorna-UFO-store\Store-App-Template-UFO-Lorna\StoreBL\bin\Debug\net6.0\StoreBL.pdb
+C:\Users\lorna\Documents\GitHub\Lorna-UFO-store\Store-App-Template-UFO-Lorna\StoreBL\bin\Debug\net6.0\StoreDL.dll
+C:\Users\lorna\Documents\GitHub\Lorna-UFO-store\Store-App-Template-UFO-Lorna\StoreBL\bin\Debug\net6.0\StoreModels.dll
+C:\Users\lorna\Documents\GitHub\Lorna-UFO-store\Store-App-Template-UFO-Lorna\StoreBL\bin\Debug\net6.0\StoreDL.pdb
+C:\Users\lorna\Documents\GitHub\Lorna-UFO-store\Store-App-Template-UFO-Lorna\StoreBL\bin\Debug\net6.0\StoreModels.pdb
+C:\Users\lorna\Documents\GitHub\Lorna-UFO-store\Store-App-Template-UFO-Lorna\StoreBL\obj\Debug\net6.0\StoreBL.csproj.AssemblyReference.cache
+C:\Users\lorna\Documents\GitHub\Lorna-UFO-store\Store-App-Template-UFO-Lorna\StoreBL\obj\Debug\net6.0\StoreBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lorna\Documents\GitHub\Lorna-UFO-store\Store-App-Template-UFO-Lorna\StoreBL\obj\Debug\net6.0\StoreBL.AssemblyInfoInputs.cache
+C:\Users\lorna\Documents\GitHub\Lorna-UFO-store\Store-App-Template-UFO-Lorna\StoreBL\obj\Debug\net6.0\StoreBL.AssemblyInfo.cs
+C:\Users\lorna\Documents\GitHub\Lorna-UFO-store\Store-App-Template-UFO-Lorna\StoreBL\obj\Debug\net6.0\StoreBL.csproj.CoreCompileInputs.cache
+C:\Users\lorna\Documents\GitHub\Lorna-UFO-store\Store-App-Template-UFO-Lorna\StoreBL\obj\Debug\net6.0\StoreBL.csproj.CopyComplete
+C:\Users\lorna\Documents\GitHub\Lorna-UFO-store\Store-App-Template-UFO-Lorna\StoreBL\obj\Debug\net6.0\StoreBL.dll
+C:\Users\lorna\Documents\GitHub\Lorna-UFO-store\Store-App-Template-UFO-Lorna\StoreBL\obj\Debug\net6.0\ref\StoreBL.dll
+C:\Users\lorna\Documents\GitHub\Lorna-UFO-store\Store-App-Template-UFO-Lorna\StoreBL\obj\Debug\net6.0\StoreBL.pdb
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p0\StoreBL\bin\Debug\net6.0\StoreBL.deps.json
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p0\StoreBL\bin\Debug\net6.0\StoreBL.dll
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p0\StoreBL\bin\Debug\net6.0\ref\StoreBL.dll
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p0\StoreBL\bin\Debug\net6.0\StoreBL.pdb
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p0\StoreBL\bin\Debug\net6.0\StoreDL.dll
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p0\StoreBL\bin\Debug\net6.0\StoreModels.dll
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p0\StoreBL\bin\Debug\net6.0\StoreDL.pdb
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p0\StoreBL\bin\Debug\net6.0\StoreModels.pdb
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p0\StoreBL\obj\Debug\net6.0\StoreBL.csproj.AssemblyReference.cache
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p0\StoreBL\obj\Debug\net6.0\StoreBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p0\StoreBL\obj\Debug\net6.0\StoreBL.AssemblyInfoInputs.cache
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p0\StoreBL\obj\Debug\net6.0\StoreBL.AssemblyInfo.cs
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p0\StoreBL\obj\Debug\net6.0\StoreBL.csproj.CoreCompileInputs.cache
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p0\StoreBL\obj\Debug\net6.0\StoreBL.csproj.CopyComplete
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p0\StoreBL\obj\Debug\net6.0\StoreBL.dll
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p0\StoreBL\obj\Debug\net6.0\ref\StoreBL.dll
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p0\StoreBL\obj\Debug\net6.0\StoreBL.pdb
+C:\Users\lorna\Documents\GitHub\p1-p0 copy\StoreBL\bin\Debug\net6.0\StoreBL.deps.json
+C:\Users\lorna\Documents\GitHub\p1-p0 copy\StoreBL\bin\Debug\net6.0\StoreBL.dll
+C:\Users\lorna\Documents\GitHub\p1-p0 copy\StoreBL\bin\Debug\net6.0\ref\StoreBL.dll
+C:\Users\lorna\Documents\GitHub\p1-p0 copy\StoreBL\bin\Debug\net6.0\StoreBL.pdb
+C:\Users\lorna\Documents\GitHub\p1-p0 copy\StoreBL\bin\Debug\net6.0\StoreDL.dll
+C:\Users\lorna\Documents\GitHub\p1-p0 copy\StoreBL\bin\Debug\net6.0\StoreModels.dll
+C:\Users\lorna\Documents\GitHub\p1-p0 copy\StoreBL\bin\Debug\net6.0\StoreDL.pdb
+C:\Users\lorna\Documents\GitHub\p1-p0 copy\StoreBL\bin\Debug\net6.0\StoreModels.pdb
+C:\Users\lorna\Documents\GitHub\p1-p0 copy\StoreBL\obj\Debug\net6.0\StoreBL.csproj.AssemblyReference.cache
+C:\Users\lorna\Documents\GitHub\p1-p0 copy\StoreBL\obj\Debug\net6.0\StoreBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lorna\Documents\GitHub\p1-p0 copy\StoreBL\obj\Debug\net6.0\StoreBL.AssemblyInfoInputs.cache
+C:\Users\lorna\Documents\GitHub\p1-p0 copy\StoreBL\obj\Debug\net6.0\StoreBL.AssemblyInfo.cs
+C:\Users\lorna\Documents\GitHub\p1-p0 copy\StoreBL\obj\Debug\net6.0\StoreBL.csproj.CoreCompileInputs.cache
+C:\Users\lorna\Documents\GitHub\p1-p0 copy\StoreBL\obj\Debug\net6.0\StoreBL.csproj.CopyComplete
+C:\Users\lorna\Documents\GitHub\p1-p0 copy\StoreBL\obj\Debug\net6.0\StoreBL.dll
+C:\Users\lorna\Documents\GitHub\p1-p0 copy\StoreBL\obj\Debug\net6.0\ref\StoreBL.dll
+C:\Users\lorna\Documents\GitHub\p1-p0 copy\StoreBL\obj\Debug\net6.0\StoreBL.pdb
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p1-NO\StoreBL\bin\Debug\net6.0\StoreBL.deps.json
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p1-NO\StoreBL\bin\Debug\net6.0\StoreBL.dll
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p1-NO\StoreBL\bin\Debug\net6.0\ref\StoreBL.dll
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p1-NO\StoreBL\bin\Debug\net6.0\StoreBL.pdb
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p1-NO\StoreBL\bin\Debug\net6.0\StoreDL.dll
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p1-NO\StoreBL\bin\Debug\net6.0\StoreModels.dll
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p1-NO\StoreBL\bin\Debug\net6.0\StoreDL.pdb
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p1-NO\StoreBL\bin\Debug\net6.0\StoreModels.pdb
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p1-NO\StoreBL\obj\Debug\net6.0\StoreBL.csproj.AssemblyReference.cache
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p1-NO\StoreBL\obj\Debug\net6.0\StoreBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p1-NO\StoreBL\obj\Debug\net6.0\StoreBL.AssemblyInfoInputs.cache
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p1-NO\StoreBL\obj\Debug\net6.0\StoreBL.AssemblyInfo.cs
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p1-NO\StoreBL\obj\Debug\net6.0\StoreBL.csproj.CoreCompileInputs.cache
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p1-NO\StoreBL\obj\Debug\net6.0\StoreBL.csproj.CopyComplete
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p1-NO\StoreBL\obj\Debug\net6.0\StoreBL.dll
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p1-NO\StoreBL\obj\Debug\net6.0\ref\StoreBL.dll
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p1-NO\StoreBL\obj\Debug\net6.0\StoreBL.pdb
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p1\StoreBL\bin\Debug\net6.0\StoreBL.deps.json
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p1\StoreBL\bin\Debug\net6.0\StoreBL.dll
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p1\StoreBL\bin\Debug\net6.0\ref\StoreBL.dll
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p1\StoreBL\bin\Debug\net6.0\StoreBL.pdb
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p1\StoreBL\bin\Debug\net6.0\StoreDL.dll
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p1\StoreBL\bin\Debug\net6.0\StoreModels.dll
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p1\StoreBL\bin\Debug\net6.0\StoreDL.pdb
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p1\StoreBL\bin\Debug\net6.0\StoreModels.pdb
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p1\StoreBL\obj\Debug\net6.0\StoreBL.csproj.AssemblyReference.cache
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p1\StoreBL\obj\Debug\net6.0\StoreBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p1\StoreBL\obj\Debug\net6.0\StoreBL.AssemblyInfoInputs.cache
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p1\StoreBL\obj\Debug\net6.0\StoreBL.AssemblyInfo.cs
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p1\StoreBL\obj\Debug\net6.0\StoreBL.csproj.CoreCompileInputs.cache
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p1\StoreBL\obj\Debug\net6.0\StoreBL.csproj.CopyComplete
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p1\StoreBL\obj\Debug\net6.0\StoreBL.dll
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p1\StoreBL\obj\Debug\net6.0\ref\StoreBL.dll
+C:\Users\lorna\Documents\GitHub\Grajek-Lorna-p1\StoreBL\obj\Debug\net6.0\StoreBL.pdb
